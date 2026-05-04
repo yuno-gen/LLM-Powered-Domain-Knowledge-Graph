@@ -1,0 +1,9 @@
+In June 2024 OpenAI acquired Rockset, a real-time analytics database company, to strengthen the retrieval infrastructure powering ChatGPT Enterprise. The deal, valued at roughly five hundred million dollars, also brought Rockset CEO Venkat Venkataramani onto the OpenAI applied team. OpenAI was founded by Sam Altman, Greg Brockman, Ilya Sutskever, and Elon Musk in 2015 as a non-profit research lab.
+
+Microsoft has invested more than thirteen billion dollars in OpenAI since 2019 and integrates OpenAI models across Azure, GitHub Copilot, and Microsoft 365 Copilot. The two companies extended their partnership in 2023, granting Microsoft preferred access to OpenAI's frontier models. Microsoft also released its own family of small models called Phi-3, developed internally by Microsoft Research.
+
+Anthropic, founded by Dario Amodei and Daniela Amodei after they left OpenAI in 2021, raised four billion dollars from Amazon and an additional two billion from Google in 2023. Amazon committed to making AWS the primary cloud provider for Anthropic, and Anthropic agreed to use AWS Trainium chips for training future Claude models.
+
+Google has partnered with Hugging Face to make open-source models more accessible on Google Cloud, and Google DeepMind, the merged research division formed by Google Brain and DeepMind in 2023, released the Gemini family of models. Demis Hassabis leads Google DeepMind and was named CEO after the merger.
+
+Meta released Llama 3 in April 2024 under a permissive license, partnered with NVIDIA to optimize the model on H100 GPUs, and announced a deepening collaboration with Microsoft to distribute Llama models on Azure. Meta's Chief AI Scientist Yann LeCun continues to advocate for open-source releases as a counterweight to closed labs.

@@ -1,0 +1,570 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "OpenAI"
+    },
+    {
+      "id": "Rockset"
+    },
+    {
+      "id": "Sam Altman"
+    },
+    {
+      "id": "Greg Brockman"
+    },
+    {
+      "id": "Ilya Sutskever"
+    },
+    {
+      "id": "Elon Musk"
+    },
+    {
+      "id": "Microsoft"
+    },
+    {
+      "id": "Phi-3"
+    },
+    {
+      "id": "Anthropic"
+    },
+    {
+      "id": "Dario Amodei"
+    },
+    {
+      "id": "Daniela Amodei"
+    },
+    {
+      "id": "Amazon"
+    },
+    {
+      "id": "Google"
+    },
+    {
+      "id": "AWS Trainium"
+    },
+    {
+      "id": "Hugging Face"
+    },
+    {
+      "id": "Google DeepMind"
+    },
+    {
+      "id": "Gemini"
+    },
+    {
+      "id": "Demis Hassabis"
+    },
+    {
+      "id": "Meta"
+    },
+    {
+      "id": "Llama 3"
+    },
+    {
+      "id": "NVIDIA"
+    },
+    {
+      "id": "Yann LeCun"
+    },
+    {
+      "id": "GPT-4o"
+    },
+    {
+      "id": "NVIDIA H100"
+    },
+    {
+      "id": "Microsoft Azure"
+    },
+    {
+      "id": "Gemini 1.5 Pro"
+    },
+    {
+      "id": "TPUv5"
+    },
+    {
+      "id": "Claude 3 Opus"
+    },
+    {
+      "id": "Claude 3 Sonnet"
+    },
+    {
+      "id": "Claude 3 Haiku"
+    },
+    {
+      "id": "Claude 3.5 Sonnet"
+    },
+    {
+      "id": "Llama 3.1 405B"
+    },
+    {
+      "id": "Mistral AI"
+    },
+    {
+      "id": "Arthur Mensch"
+    },
+    {
+      "id": "Mistral Large"
+    },
+    {
+      "id": "Codestral"
+    },
+    {
+      "id": "xAI"
+    },
+    {
+      "id": "Grok-1"
+    },
+    {
+      "id": "Grok-2"
+    },
+    {
+      "id": "Colossus"
+    },
+    {
+      "id": "European Union"
+    },
+    {
+      "id": "EU AI Act"
+    },
+    {
+      "id": "European Commission"
+    },
+    {
+      "id": "AI Office"
+    },
+    {
+      "id": "Joe Biden"
+    },
+    {
+      "id": "Executive Order 14110"
+    },
+    {
+      "id": "NIST"
+    },
+    {
+      "id": "US AI Safety Institute"
+    },
+    {
+      "id": "Satya Nadella"
+    },
+    {
+      "id": "Bret Taylor"
+    },
+    {
+      "id": "Larry Summers"
+    },
+    {
+      "id": "Superalignment Team"
+    },
+    {
+      "id": "Jan Leike"
+    },
+    {
+      "id": "Rishi Sunak"
+    },
+    {
+      "id": "Bletchley Park AI Safety Summit"
+    },
+    {
+      "id": "UK AI Safety Institute"
+    },
+    {
+      "id": "Gavin Newsom"
+    },
+    {
+      "id": "SB 1047"
+    },
+    {
+      "id": "Scott Wiener"
+    }
+  ],
+  "links": [
+    {
+      "relation": "acquired",
+      "source": "OpenAI",
+      "target": "Rockset",
+      "key": 0
+    },
+    {
+      "relation": "founded_by",
+      "source": "OpenAI",
+      "target": "Sam Altman",
+      "key": 0
+    },
+    {
+      "relation": "removed",
+      "source": "OpenAI",
+      "target": "Sam Altman",
+      "key": 1
+    },
+    {
+      "relation": "reinstated",
+      "source": "OpenAI",
+      "target": "Sam Altman",
+      "key": 2
+    },
+    {
+      "relation": "founded_by",
+      "source": "OpenAI",
+      "target": "Greg Brockman",
+      "key": 0
+    },
+    {
+      "relation": "founded_by",
+      "source": "OpenAI",
+      "target": "Ilya Sutskever",
+      "key": 0
+    },
+    {
+      "relation": "founded_by",
+      "source": "OpenAI",
+      "target": "Elon Musk",
+      "key": 0
+    },
+    {
+      "relation": "released",
+      "source": "OpenAI",
+      "target": "GPT-4o",
+      "key": 0
+    },
+    {
+      "relation": "dissolved",
+      "source": "OpenAI",
+      "target": "Superalignment Team",
+      "key": 0
+    },
+    {
+      "relation": "lobbied_against",
+      "source": "OpenAI",
+      "target": "SB 1047",
+      "key": 0
+    },
+    {
+      "relation": "invested_in",
+      "source": "Microsoft",
+      "target": "OpenAI",
+      "key": 0
+    },
+    {
+      "relation": "partnered_with",
+      "source": "Microsoft",
+      "target": "OpenAI",
+      "key": 1
+    },
+    {
+      "relation": "released",
+      "source": "Microsoft",
+      "target": "Phi-3",
+      "key": 0
+    },
+    {
+      "relation": "founded_by",
+      "source": "Anthropic",
+      "target": "Dario Amodei",
+      "key": 0
+    },
+    {
+      "relation": "founded_by",
+      "source": "Anthropic",
+      "target": "Daniela Amodei",
+      "key": 0
+    },
+    {
+      "relation": "uses",
+      "source": "Anthropic",
+      "target": "AWS Trainium",
+      "key": 0
+    },
+    {
+      "relation": "released",
+      "source": "Anthropic",
+      "target": "Claude 3 Opus",
+      "key": 0
+    },
+    {
+      "relation": "released",
+      "source": "Anthropic",
+      "target": "Claude 3 Sonnet",
+      "key": 0
+    },
+    {
+      "relation": "released",
+      "source": "Anthropic",
+      "target": "Claude 3 Haiku",
+      "key": 0
+    },
+    {
+      "relation": "released",
+      "source": "Anthropic",
+      "target": "Claude 3.5 Sonnet",
+      "key": 0
+    },
+    {
+      "relation": "invested_in",
+      "source": "Amazon",
+      "target": "Anthropic",
+      "key": 0
+    },
+    {
+      "relation": "invested_in",
+      "source": "Google",
+      "target": "Anthropic",
+      "key": 0
+    },
+    {
+      "relation": "partnered_with",
+      "source": "Google",
+      "target": "Hugging Face",
+      "key": 0
+    },
+    {
+      "relation": "lobbied_against",
+      "source": "Google",
+      "target": "SB 1047",
+      "key": 0
+    },
+    {
+      "relation": "released",
+      "source": "Google DeepMind",
+      "target": "Gemini",
+      "key": 0
+    },
+    {
+      "relation": "released",
+      "source": "Google DeepMind",
+      "target": "Gemini 1.5 Pro",
+      "key": 0
+    },
+    {
+      "relation": "leads",
+      "source": "Demis Hassabis",
+      "target": "Google DeepMind",
+      "key": 0
+    },
+    {
+      "relation": "released",
+      "source": "Meta",
+      "target": "Llama 3",
+      "key": 0
+    },
+    {
+      "relation": "partnered_with",
+      "source": "Meta",
+      "target": "NVIDIA",
+      "key": 0
+    },
+    {
+      "relation": "partnered_with",
+      "source": "Meta",
+      "target": "Microsoft",
+      "key": 0
+    },
+    {
+      "relation": "released",
+      "source": "Meta",
+      "target": "Llama 3.1 405B",
+      "key": 0
+    },
+    {
+      "relation": "lobbied_against",
+      "source": "Meta",
+      "target": "SB 1047",
+      "key": 0
+    },
+    {
+      "relation": "works_for",
+      "source": "Yann LeCun",
+      "target": "Meta",
+      "key": 0
+    },
+    {
+      "relation": "trained_on",
+      "source": "GPT-4o",
+      "target": "NVIDIA H100",
+      "key": 0
+    },
+    {
+      "relation": "trained_in",
+      "source": "GPT-4o",
+      "target": "Microsoft Azure",
+      "key": 0
+    },
+    {
+      "relation": "trained_on",
+      "source": "Gemini 1.5 Pro",
+      "target": "TPUv5",
+      "key": 0
+    },
+    {
+      "relation": "founded_by",
+      "source": "Mistral AI",
+      "target": "Arthur Mensch",
+      "key": 0
+    },
+    {
+      "relation": "released",
+      "source": "Mistral AI",
+      "target": "Mistral Large",
+      "key": 0
+    },
+    {
+      "relation": "released",
+      "source": "Mistral AI",
+      "target": "Codestral",
+      "key": 0
+    },
+    {
+      "relation": "partnered_with",
+      "source": "Mistral AI",
+      "target": "Microsoft",
+      "key": 0
+    },
+    {
+      "relation": "founded_by",
+      "source": "xAI",
+      "target": "Elon Musk",
+      "key": 0
+    },
+    {
+      "relation": "released",
+      "source": "xAI",
+      "target": "Grok-1",
+      "key": 0
+    },
+    {
+      "relation": "released",
+      "source": "xAI",
+      "target": "Grok-2",
+      "key": 0
+    },
+    {
+      "relation": "built",
+      "source": "xAI",
+      "target": "Colossus",
+      "key": 0
+    },
+    {
+      "relation": "uses",
+      "source": "Colossus",
+      "target": "NVIDIA H100",
+      "key": 0
+    },
+    {
+      "relation": "finalized",
+      "source": "European Union",
+      "target": "EU AI Act",
+      "key": 0
+    },
+    {
+      "relation": "regulates",
+      "source": "EU AI Act",
+      "target": "OpenAI",
+      "key": 0
+    },
+    {
+      "relation": "regulates",
+      "source": "EU AI Act",
+      "target": "Anthropic",
+      "key": 0
+    },
+    {
+      "relation": "regulates",
+      "source": "EU AI Act",
+      "target": "Google DeepMind",
+      "key": 0
+    },
+    {
+      "relation": "regulates",
+      "source": "EU AI Act",
+      "target": "Meta",
+      "key": 0
+    },
+    {
+      "relation": "established",
+      "source": "European Commission",
+      "target": "AI Office",
+      "key": 0
+    },
+    {
+      "relation": "signed",
+      "source": "Joe Biden",
+      "target": "Executive Order 14110",
+      "key": 0
+    },
+    {
+      "relation": "directs",
+      "source": "Executive Order 14110",
+      "target": "NIST",
+      "key": 0
+    },
+    {
+      "relation": "created",
+      "source": "Executive Order 14110",
+      "target": "US AI Safety Institute",
+      "key": 0
+    },
+    {
+      "relation": "under",
+      "source": "US AI Safety Institute",
+      "target": "NIST",
+      "key": 0
+    },
+    {
+      "relation": "backed",
+      "source": "Satya Nadella",
+      "target": "Sam Altman",
+      "key": 0
+    },
+    {
+      "relation": "chairs",
+      "source": "Bret Taylor",
+      "target": "OpenAI",
+      "key": 0
+    },
+    {
+      "relation": "directs",
+      "source": "Larry Summers",
+      "target": "OpenAI",
+      "key": 0
+    },
+    {
+      "relation": "led_by",
+      "source": "Superalignment Team",
+      "target": "Ilya Sutskever",
+      "key": 0
+    },
+    {
+      "relation": "led_by",
+      "source": "Superalignment Team",
+      "target": "Jan Leike",
+      "key": 0
+    },
+    {
+      "relation": "hosted",
+      "source": "Rishi Sunak",
+      "target": "Bletchley Park AI Safety Summit",
+      "key": 0
+    },
+    {
+      "relation": "partnered_with",
+      "source": "UK AI Safety Institute",
+      "target": "US AI Safety Institute",
+      "key": 0
+    },
+    {
+      "relation": "vetoed",
+      "source": "Gavin Newsom",
+      "target": "SB 1047",
+      "key": 0
+    },
+    {
+      "relation": "authored",
+      "source": "Scott Wiener",
+      "target": "SB 1047",
+      "key": 0
+    }
+  ]
+}

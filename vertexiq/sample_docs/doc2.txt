@@ -1,0 +1,9 @@
+OpenAI released GPT-4o in May 2024 as a multimodal model that processes text, vision, and audio in a single network. GPT-4o achieved state-of-the-art results on the MMLU benchmark and surpassed GPT-4 Turbo on HumanEval coding evaluations. The model was trained on NVIDIA H100 GPUs in Microsoft Azure data centers.
+
+Google DeepMind released Gemini 1.5 Pro in February 2024, featuring a one-million-token context window and strong performance on the Needle-in-a-Haystack retrieval test. Gemini 1.5 Pro was trained on Google's TPUv5 hardware and powers Google's Bard product, which Google rebranded to Gemini in early 2024. Demis Hassabis announced Gemini 2.0 later in 2024 with native agentic capabilities.
+
+Anthropic released Claude 3 Opus, Claude 3 Sonnet, and Claude 3 Haiku in March 2024, with Claude 3 Opus claiming top scores on GPQA and MATH benchmarks. Claude 3.5 Sonnet, released in June 2024, beat GPT-4o on coding evaluations like HumanEval and SWE-bench. Anthropic trained Claude 3 on a mixture of AWS and Google Cloud infrastructure.
+
+Meta released Llama 3 in April 2024 in 8B and 70B parameter sizes, followed by Llama 3.1 405B in July 2024. Llama 3.1 405B was the first openly released frontier-scale model and competes with GPT-4 and Claude 3.5 Sonnet on MMLU. Mistral AI, founded by Arthur Mensch in Paris, released Mistral Large and Codestral in 2024 and partnered with Microsoft to distribute Mistral Large on Azure.
+
+xAI, founded by Elon Musk in 2023, released Grok-1 as open weights in March 2024 and Grok-2 with image generation in August 2024. xAI built the Colossus supercomputer in Memphis using one hundred thousand NVIDIA H100 GPUs, making it among the largest training clusters publicly disclosed.

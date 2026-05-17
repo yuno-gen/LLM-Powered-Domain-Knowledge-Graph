@@ -188,11 +188,6 @@ entity, then dispatches to the matching engine method.
 
 ---
 
-## Screenshot
-
-[Insert graph visualization screenshot here]
-
----
 
 ## Tests
 
